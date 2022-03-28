@@ -3,7 +3,7 @@
 <br>
 
 - 🔭 I’m currently working on [Painel do Marco Legal do Saneamento](https://aguaesaneamento.shinyapps.io/painel-marco-legal/)
-- 🌱 I’m currently learning **jQuery** and participating in the **[#TidyTuesday](https://twitter.com/hashtag/TidyTuesday) challenge**
+- 🌱 I’m currently participating in the **[#TidyTuesday](https://github.com/IcaroBernardes/tidytuesday) challenge** and **[#DuBoisChallenge2022](https://github.com/IcaroBernardes/webdubois) challenge**
 - 💬 I would love to talk about: **Data viz with ggplot2 and alikes**
 - 📫 How to reach me: **icaro@bitanalytics.dev.br**
 - 📄 Know about my experiences at my [Linkedin profile](https://www.linkedin.com/in/icarobsc)
