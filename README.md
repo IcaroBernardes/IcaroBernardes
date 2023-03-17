@@ -11,12 +11,12 @@ Dashboard made in `{flexdashboard}` that includes solutions like:
 - Input data from URL;
 - Heavily customized front-end;
 - Use of JS and observeEvent() to synchronize <a href="https://leafletjs.com" target="_blank">Leaflet</a> maps;
-- Interactive plots made with {echarts4r} and tweaked with JS;
+- Interactive plots made with `{echarts4r}` and tweaked with JS;
 
 <h2 align="left">🌱 Personal projects</h2>
 <h3 align="left"><a href="https://github.com/IcaroBernardes/webdubois" target="_blank">DuBoisChallenge</a></h3><a href="https://github.com/IcaroBernardes/webdubois" target="_blank"> <img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webdubois.png" alt="webdubois" width="200"/></a>
 
-
+This dataviz project takes inspiration from the works of the Du Bois' team in the 1900's Paris Exposition. I reproduced them in `R` with slight changes and using data that shows racial inequality and Black achievements in Brazil.
 
 
 - 🌱 I frequently take part on these challenges: **[#DuBoisChallenge](https://github.com/IcaroBernardes/webdubois)**, **[#TidyTuesday](https://github.com/IcaroBernardes/tidytuesday)**, **[#30DayChartChallenge](https://github.com/IcaroBernardes/30DayChartChallenge)**, **[#30DayMapChallenge](https://github.com/IcaroBernardes/30DayMapChallenge)**, and **[#GamesNightViz](https://github.com/IcaroBernardes/gamesviz)**
