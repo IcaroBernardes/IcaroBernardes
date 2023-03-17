@@ -60,7 +60,7 @@ I was able to make more use of Figma and the `{tmap}` package in this one.
 
 This is my space to jam. I love videogames a lot, so it's a joy to make dataviz works out of them.
 
-<h2 align="left" class="red">Connect with me</h2>
+<h2 align="left">📞 Connect with me</h2>
 <p align="left">
 <a href="https://twitter.com/icarobsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icarobsc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/icarobsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="icarobsc" height="30" width="40" /></a>
@@ -70,10 +70,10 @@ This is my space to jam. I love videogames a lot, so it's a joy to make dataviz 
 - 📫 How to reach me: **icaro@bitanalytics.dev.br**
 - 📄 Know about my experiences at my [Linkedin profile](https://www.linkedin.com/in/icarobsc)
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">💻 Languages and Tools</h2>
 <p align="left"> <a href="https://www.r-project.org" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> </a> <a href="https://shiny.rstudio.com" target="_blank"> <img src="https://community.rstudio.com/uploads/default/optimized/3X/a/6/a62322c626a8db3b50af56ea64e8627575394dbc_2_862x998.png" alt="Shiny" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> </a> </p>
 
-<h2 align="left">Some tutorials</h2>
+<h2 align="left">📝 Some tutorials</h2>
 <details>
   <summary>See more:</summary>
   <ul>
