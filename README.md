@@ -34,11 +34,33 @@ This dataviz project takes inspiration from the works of the Du Bois' team in th
 
 This was my first dataviz challenge ever. It allowed to learn a lot about data handling, especially the uses of `{dplyr}`, `{tidyr}` and `{purrr}`.
 
+<h3 align="left"><a href="https://github.com/IcaroBernardes/30DayChartChallenge" target="_blank">30DayChartChallenge</a></h3>
 
-**[#30DayChartChallenge](https://github.com/IcaroBernardes/30DayChartChallenge)**, **[#30DayMapChallenge](https://github.com/IcaroBernardes/30DayMapChallenge)**, and **[#GamesNightViz](https://github.com/IcaroBernardes/gamesviz)**
+<a href="https://github.com/IcaroBernardes/30DayChartChallenge" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/30DayChartChallenge1.png" alt="30DayChartChallenge" width="24%"/></a>
+<a href="https://github.com/IcaroBernardes/30DayChartChallenge" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/30DayChartChallenge2.png" alt="30DayChartChallenge" width="24%"/></a>
+<a href="https://github.com/IcaroBernardes/30DayChartChallenge" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/30DayChartChallenge3.png" alt="30DayChartChallenge" width="24%"/></a>
+<a href="https://github.com/IcaroBernardes/30DayChartChallenge" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/30DayChartChallenge4.png" alt="30DayChartChallenge" width="24%"/></a>
 
+This challenge allowed me to produce a greater variety of charts. I was able to do pictograms, tables, maps, posters and strip charts in R and Figma.
 
-<h2 align="left" class="red">Connect with me:</h2>
+<h3 align="left"><a href="https://github.com/IcaroBernardes/30DayMapChallenge" target="_blank">30DayMapChallenge</a></h3>
+
+<a href="https://github.com/IcaroBernardes/30DayMapChallenge" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/30DayMapChallenge1.png" alt="30DayMapChallenge" width="24%"/></a>
+<a href="https://github.com/IcaroBernardes/30DayMapChallenge" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/30DayMapChallenge2.png" alt="30DayMapChallenge" width="24%"/></a>
+<a href="https://github.com/IcaroBernardes/30DayMapChallenge" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/30DayMapChallenge3.png" alt="30DayMapChallenge" width="24%"/></a>
+<a href="https://github.com/IcaroBernardes/30DayMapChallenge" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/30DayMapChallenge4.png" alt="30DayMapChallenge" width="24%"/></a>
+
+This challenge allowed me to produce a greater variety of charts. I was able to do pictograms, tables, maps, posters and strip charts in R and Figma.
+
+<h3 align="left"><a href="https://github.com/IcaroBernardes/gamesviz" target="_blank">GamesNightViz</a></h3>
+
+<a href="https://github.com/IcaroBernardes/gamesviz" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/gamesviz1.png" alt="gamesviz" width="33%"/></a>
+<a href="https://github.com/IcaroBernardes/gamesviz" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/gamesviz2.png" alt="gamesviz" width="33%"/></a>
+<a href="https://github.com/IcaroBernardes/gamesviz" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/gamesviz3.png" alt="gamesviz" width="33%"/></a>
+
+This is my space to jam. I love videogames a lot, so it's a joy to make dataviz works out of them.
+
+<h2 align="left" class="red">Connect with me</h2>
 <p align="left">
 <a href="https://twitter.com/icarobsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icarobsc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/icarobsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="icarobsc" height="30" width="40" /></a>
@@ -48,10 +70,10 @@ This was my first dataviz challenge ever. It allowed to learn a lot about data h
 - 📫 How to reach me: **icaro@bitanalytics.dev.br**
 - 📄 Know about my experiences at my [Linkedin profile](https://www.linkedin.com/in/icarobsc)
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools</h2>
 <p align="left"> <a href="https://www.r-project.org" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> </a> <a href="https://shiny.rstudio.com" target="_blank"> <img src="https://community.rstudio.com/uploads/default/optimized/3X/a/6/a62322c626a8db3b50af56ea64e8627575394dbc_2_862x998.png" alt="Shiny" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> </a> </p>
 
-<h2 align="left">Some tutorials:</h2>
+<h2 align="left">Some tutorials</h2>
 <details>
   <summary>See more:</summary>
   <ul>
