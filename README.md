@@ -4,7 +4,7 @@
 
 <h2 align="left">🔭 Work projects</h2>
 <h3 align="left"><a href="https://aguaesaneamento.shinyapps.io/painel-marco-legal/" target="_blank">Painel do Marco Legal do Saneamento</a></h3>
-<a href="https://aguaesaneamento.shinyapps.io/painel-marco-legal/" target="_blank"> <img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/painel_marco_legal.png" alt="painel-marco-legal" width="80%"/></a>
+<a href="https://aguaesaneamento.shinyapps.io/painel-marco-legal/" target="_blank"> <img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/painel_marco_legal.png" alt="painel-marco-legal" width="100%"/></a>
 
 Dashboard made in `{flexdashboard}` that includes solutions like:
 - Input persistence through tabs;
@@ -15,15 +15,18 @@ Dashboard made in `{flexdashboard}` that includes solutions like:
 
 <h2 align="left">🌱 Personal projects</h2>
 <h3 align="left"><a href="https://github.com/IcaroBernardes/webdubois" target="_blank">DuBoisChallenge</a></h3>
-<a href="https://github.com/IcaroBernardes/webdubois" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webdubois1.png" alt="webdubois" width="25%"/></a>
-<a href="https://github.com/IcaroBernardes/webdubois" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webdubois2.png" alt="webdubois" width="25%"/></a>
-<a href="https://github.com/IcaroBernardes/webdubois" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webdubois3.png" alt="webdubois" width="25%"/></a>
-<a href="https://github.com/IcaroBernardes/webdubois" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webdubois4.png" alt="webdubois" width="25%"/></a>
+<a href="https://github.com/IcaroBernardes/webdubois" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webdubois1.png" alt="webdubois" width="24%"/></a>
+<a href="https://github.com/IcaroBernardes/webdubois" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webdubois2.png" alt="webdubois" width="24%"/></a>
+<a href="https://github.com/IcaroBernardes/webdubois" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webdubois3.png" alt="webdubois" width="24%"/></a>
+<a href="https://github.com/IcaroBernardes/webdubois" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webdubois4.png" alt="webdubois" width="24%"/></a>
 
 This dataviz project takes inspiration from the works of the Du Bois' team in the 1900's Paris Exposition. I reproduced them in `R` with slight changes and using data that shows racial inequality and Black achievements in Brazil.
 
+<h3 align="left"><a href="https://github.com/IcaroBernardes/tidytuesday" target="_blank">TidyTuesday</a></h3>
 
-- 🌱 I frequently take part on these challenges: **[#DuBoisChallenge](https://github.com/IcaroBernardes/webdubois)**, **[#TidyTuesday](https://github.com/IcaroBernardes/tidytuesday)**, **[#30DayChartChallenge](https://github.com/IcaroBernardes/30DayChartChallenge)**, **[#30DayMapChallenge](https://github.com/IcaroBernardes/30DayMapChallenge)**, and **[#GamesNightViz](https://github.com/IcaroBernardes/gamesviz)**
+
+
+**[#30DayChartChallenge](https://github.com/IcaroBernardes/30DayChartChallenge)**, **[#30DayMapChallenge](https://github.com/IcaroBernardes/30DayMapChallenge)**, and **[#GamesNightViz](https://github.com/IcaroBernardes/gamesviz)**
 - 💬 I would love to talk about: **Dataviz with ggplot2 and its extensions as well as data handling with tidyverse**
 - 📫 How to reach me: **icaro@bitanalytics.dev.br**
 - 📄 Know about my experiences at my [Linkedin profile](https://www.linkedin.com/in/icarobsc)
