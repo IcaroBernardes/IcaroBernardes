@@ -2,13 +2,24 @@
 <h3 align="center">Data Scientist and co-founder of BIT::Analytics</h3>
 <br>
 
-<h2 align="left">Current projects</h2>
-<h3 align="left">[Painel do Marco Legal do Saneamento](https://aguaesaneamento.shinyapps.io/painel-marco-legal/)</h3>
-<a href="https://aguaesaneamento.shinyapps.io/painel-marco-legal/" target="_blank"> <img src="./images/painel_marco_legal.png" alt="painel-marco-legal" width="100"/></a>
+<h2 align="left">🔭 Work projects</h2>
+<h3 align="left"><a href="https://aguaesaneamento.shinyapps.io/painel-marco-legal/" target="_blank">Painel do Marco Legal do Saneamento</a></h3>
+<a href="https://aguaesaneamento.shinyapps.io/painel-marco-legal/" target="_blank"> <img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/painel_marco_legal.png" alt="painel-marco-legal" width="100"/></a>
+
+Dashboard made in <span class='code'>{flexdashboard}</span> that includes solutions like:
+- Input persistence through tabs;
+- Input data from URL;
+- Heavily customized front-end;
+- Use of JS and observeEvent() to synchronize <a href="https://leafletjs.com" target="_blank">Leaflet</a> maps;
+- Interactive plots made with {echarts4r} and tweaked with JS;
+
+<h2 align="left">🌱 Personal projects</h2>
+<h3 align="left"><a href="https://github.com/IcaroBernardes/webdubois" target="_blank">DuBoisChallenge</a></h3>
+<a href="https://github.com/IcaroBernardes/webdubois" target="_blank"> <img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webdubois.png" alt="webdubois" width="50"/></a>
 
 
 
-- 🔭 I’m currently working on [Painel do Marco Legal do Saneamento](https://aguaesaneamento.shinyapps.io/painel-marco-legal/) and other works that are under NDA
+
 - 🌱 I frequently take part on these challenges: **[#DuBoisChallenge](https://github.com/IcaroBernardes/webdubois)**, **[#TidyTuesday](https://github.com/IcaroBernardes/tidytuesday)**, **[#30DayChartChallenge](https://github.com/IcaroBernardes/30DayChartChallenge)**, **[#30DayMapChallenge](https://github.com/IcaroBernardes/30DayMapChallenge)**, and **[#GamesNightViz](https://github.com/IcaroBernardes/gamesviz)**
 - 💬 I would love to talk about: **Dataviz with ggplot2 and its extensions as well as data handling with tidyverse**
 - 📫 How to reach me: **icaro@bitanalytics.dev.br**
