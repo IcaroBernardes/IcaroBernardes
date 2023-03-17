@@ -4,9 +4,9 @@
 
 <h2 align="left">🔭 Work projects</h2>
 <h3 align="left"><a href="https://aguaesaneamento.shinyapps.io/painel-marco-legal/" target="_blank">Painel do Marco Legal do Saneamento</a></h3>
-<a href="https://aguaesaneamento.shinyapps.io/painel-marco-legal/" target="_blank"> <img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/painel_marco_legal.png" alt="painel-marco-legal" width="100"/></a>
+<a href="https://aguaesaneamento.shinyapps.io/painel-marco-legal/" target="_blank"> <img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/painel_marco_legal.png" alt="painel-marco-legal" width="100%"/></a>
 
-Dashboard made in <span class='code'>{flexdashboard}</span> that includes solutions like:
+Dashboard made in `{flexdashboard}` that includes solutions like:
 - Input persistence through tabs;
 - Input data from URL;
 - Heavily customized front-end;
@@ -14,8 +14,7 @@ Dashboard made in <span class='code'>{flexdashboard}</span> that includes soluti
 - Interactive plots made with {echarts4r} and tweaked with JS;
 
 <h2 align="left">🌱 Personal projects</h2>
-<h3 align="left"><a href="https://github.com/IcaroBernardes/webdubois" target="_blank">DuBoisChallenge</a></h3>
-<a href="https://github.com/IcaroBernardes/webdubois" target="_blank"> <img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webdubois.png" alt="webdubois" width="50"/></a>
+<h3 align="left"><a href="https://github.com/IcaroBernardes/webdubois" target="_blank">DuBoisChallenge</a></h3><a href="https://github.com/IcaroBernardes/webdubois" target="_blank"> <img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webdubois.png" alt="webdubois" width="200"/></a>
 
 
 
