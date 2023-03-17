@@ -2,10 +2,9 @@
 <h3 align="center">Data Scientist and co-founder of BIT::Analytics</h3>
 <br>
 
-<h2 align="left" class="red">Current projects</h2>
-
-
-[Painel do Marco Legal do Saneamento](https://aguaesaneamento.shinyapps.io/painel-marco-legal/)
+<h2 align="left">Current projects</h2>
+<h3 align="left">[Painel do Marco Legal do Saneamento](https://aguaesaneamento.shinyapps.io/painel-marco-legal/)</h3>
+<a href="https://aguaesaneamento.shinyapps.io/painel-marco-legal/" target="_blank"> <img src="./images/painel_marco_legal.png" alt="painel-marco-legal" width="100"/></a>
 
 
 
