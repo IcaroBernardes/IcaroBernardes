@@ -50,7 +50,7 @@ This challenge allowed me to produce a greater variety of charts. I was able to 
 <a href="https://github.com/IcaroBernardes/30DayMapChallenge" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/30DayMapChallenge3.png" alt="30DayMapChallenge" width="24%"/></a>
 <a href="https://github.com/IcaroBernardes/30DayMapChallenge" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/30DayMapChallenge4.png" alt="30DayMapChallenge" width="24%"/></a>
 
-This challenge allowed me to produce a greater variety of charts. I was able to do pictograms, tables, maps, posters and strip charts in R and Figma.
+I was able to make more use of Figma and the `{tmap}` package in this one.
 
 <h3 align="left"><a href="https://github.com/IcaroBernardes/gamesviz" target="_blank">GamesNightViz</a></h3>
 
