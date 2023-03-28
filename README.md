@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ícaro Bernardes</h1>
-<h3 align="center">Data Scientist and co-founder of BIT::Analytics</h3>
+<h3 align="center">Fullstack R dev., dataviz specialist and co-founder of BIT::Analytics</h3>
 <br>
 
 <h2 align="left">🔭 Work projects</h2>
@@ -60,20 +60,33 @@ I was able to make more use of Figma and the `{tmap}` package in this one.
 
 This is my space to jam. I love videogames a lot, so it's a joy to make dataviz works out of them.
 
-<h3 align="left">Shiny apps</h3>
+<h3 align="left">Shiny Apps</h3>
 
 <a href="https://icarob.shinyapps.io/BGGexplorer/" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/shinyapps1.png" alt="shinyapps" width="49%"/></a>
 <a href="icarob.shinyapps.io/lampions_quiz/" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/shinyapps2.png" alt="shinyapps" width="49%"/></a>
 
-I made two simple apps to try some tricks. I made the <a href="https://github.com/IcaroBernardes/table-contest" target="_blank">BGG Explorer</a> for the RStudio Table Contest of 2021. Since the UI and server have repetitive structures and logic I relied a lot on {purrr} to build them. The <a href="https://github.com/IcaroBernardes/lampions_league_quiz" target="_blank">Lampions League Quiz</a> is a timed quiz also built with lots of {purrr} and {shinyjs} as well.
+I made two simple apps to try some tricks. I made the <a href="https://github.com/IcaroBernardes/table-contest" target="_blank">BGG Explorer</a> for the RStudio Table Contest of 2021. Since the UI and server have repetitive structures and logic I relied a lot on `{purrr}` to build them. The <a href="https://github.com/IcaroBernardes/lampions_league_quiz" target="_blank">Lampions League Quiz</a> is a timed quiz also built with lots of `{purrr}` and `{shinyjs}` as well.
 
 <h3 align="left">R Packages</h3>
 
 <a href="https://github.com/IcaroBernardes/carnaval" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/carnaval.png" alt="carnaval" width="49%"/></a>
 <a href="https://github.com/IcaroBernardes/dubois" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/dubois.png" alt="dubois" width="49%"/></a>
 
-{dubois} was the first R package I ever developed. The idea was to allow users to produce Du Bois inspired posters like the ones I made for the DuBoisChallenge but with their own data. I created only one function, but stopped when I learned others had produced similar packages with less constraints. Currently, I am developing the {carnaval} package. It is an unique package that provides easy access to both datasets on the Carnaval parade competition and color palettes inspired by the carioca Samba Schools. The package focuses on the main league of the competition (“Grupo Especial”).
+<a href="https://github.com/IcaroBernardes/dubois" target="_blank">`{dubois}`</a> was the first R package I ever created. The idea was to allow users to produce Du Bois inspired posters like the ones I made for the DuBoisChallenge but with their own data. I created only one function, but stopped when I learned others had produced similar packages with less constraints. Currently, I am developing the <a href="https://github.com/IcaroBernardes/carnaval" target="_blank">`{carnaval}`</a> package. It is an unique package that provides easy access to both datasets on the Carnaval parade competition and color palettes inspired by the carioca Samba Schools. The package focuses on the main league of the competition (“Grupo Especial”).
 
+<h3 align="left">Web Pages</h3>
+
+<a href="https://icarobernardes.github.io/webdubois/" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webpages1.png" alt="webpages" width="33%"/></a>
+<a href="https://icarobernardes.github.io/gp_eleitoral/" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webpages2.png" alt="webpages" width="33%"/></a>
+<a href="https://icarobernardes.github.io/trekking_time/" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/webpages3.png" alt="webpages" width="33%"/></a>
+
+I created these pages because I want to be able of building interactive pieces without being constrained to shiny. All of them are hosted using GitHub Pages. The <a href="https://github.com/IcaroBernardes/webdubois/blob/main/index.Rhtml" target="_blank">W.E.B. DuBois Gallery</a> is the only page I made without R functions. It shows the works I made for the DuBoisChallenge and the originals that inspired them. The <a href="https://github.com/IcaroBernardes/gp_eleitoral" target="_blank">GP Presidencial do Brasil</a> shows votes for president in the 10 biggest  cities of each Brazilian state. It shows the interactive poster of the chosen city using an iframe. <a href="https://github.com/IcaroBernardes/trekking_time" target="_blank">Trekking Time</a> provides a item-based timeline of the events of the Star Trek universe. The server logic and tooltips are made with JS. <a href="https://icarobernardes.github.io/brazil_lineup/" target="_blank">Brazil Lineup</a> and <a href="https://icarobernardes.github.io/carmen_sandiego_DOS/" target="_blank">Where in the World is Carmen Sandiego?</a> are pages that hold interactive works I made with `{ggiraph}`.
+
+<h3 align="left">Bots</h3>
+
+<a href="https://github.com/brunomioto/manchete" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/manchete.png" alt="manchete" width="49%"/></a>
+
+manchete is a project inspired on the <a href="https://palewi.re/docs/news-homepages/" target="_blank">News Homepages</a> project. It takes screenshots of the digital versions of the main Brazilian newspapers and publishes them on Twitter <a href="https://twitter.com/MancheteBot" target="_blank">(MancheteBot)</a> and Telegram <a href="https://t.me/mancheteBR" target="_blank">(Manchete)</a>. This bot was developed by <a href="https://github.com/brunomioto" target="_blank">Bruno Mioto</a> and myself.
 
 <h2 align="left">📞 Connect with me</h2>
 <p align="left">
