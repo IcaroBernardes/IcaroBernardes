@@ -60,6 +60,21 @@ I was able to make more use of Figma and the `{tmap}` package in this one.
 
 This is my space to jam. I love videogames a lot, so it's a joy to make dataviz works out of them.
 
+<h3 align="left">Shiny apps</h3>
+
+<a href="https://icarob.shinyapps.io/BGGexplorer/" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/shinyapps1.png" alt="shinyapps" width="49%"/></a>
+<a href="icarob.shinyapps.io/lampions_quiz/" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/shinyapps2.png" alt="shinyapps" width="49%"/></a>
+
+I made two simple apps to try some tricks. I made the <a href="https://github.com/IcaroBernardes/table-contest" target="_blank">BGG Explorer</a> for the RStudio Table Contest of 2021. Since the UI and server have repetitive structures and logic I relied a lot on {purrr} to build them. The <a href="https://github.com/IcaroBernardes/lampions_league_quiz" target="_blank">Lampions League Quiz</a> is a timed quiz also built with lots of {purrr} and {shinyjs} as well.
+
+<h3 align="left">R Packages</h3>
+
+<a href="https://github.com/IcaroBernardes/carnaval" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/carnaval.png" alt="carnaval" width="49%"/></a>
+<a href="https://github.com/IcaroBernardes/dubois" target="_blank"><img src="https://raw.githubusercontent.com/IcaroBernardes/IcaroBernardes/main/www/images/dubois.png" alt="dubois" width="49%"/></a>
+
+{dubois} was the first R package I ever developed. The idea was to allow users to produce Du Bois inspired posters like the ones I made for the DuBoisChallenge but with their own data. I created only one function, but stopped when I learned others had produced similar packages with less constraints. Currently, I am developing the {carnaval} package. It is an unique package that provides easy access to both datasets on the Carnaval parade competition and color palettes inspired by the carioca Samba Schools. The package focuses on the main league of the competition (“Grupo Especial”).
+
+
 <h2 align="left">📞 Connect with me</h2>
 <p align="left">
 <a href="https://twitter.com/icarobsc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icarobsc" height="30" width="40" /></a>
